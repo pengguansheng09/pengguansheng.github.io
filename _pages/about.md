@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I recieved my Ph.D. in Management Science and Engineering from the National University of Defense Technology (NUDT), China, awarded in December 2020. My doctoral research focused on heuristic and exact algorithms for Agile Earth Observation Satellite scheduling, with strong theoretical ties to the Orienteering Problem with Time Windows. From September 2017 to October 2019, I was a Visiting Researcher at KU Leuven, Belgium. Prior to my Ph.D., I hold a Master’s degree in Management Science and Engineering (NUDT, December 2015), specializing in robustness optimization of complex networks and a Bachelor’s degree in Management Engineering (NUDT, June 2013).
+I recieved my Ph.D. in Management Science and Engineering from the National University of Defense Technology (NUDT), China, awarded in December 2020. My doctoral research focused on heuristic and exact algorithms for Agile Earth Observation Satellite scheduling, with strong theoretical ties to the Orienteering Problem with Time Windows. From September 2017 to October 2019, I was a Visiting Researcher at KU Leuven Mobility Research Center - CIB, Belgium.
+
+Prior to my Ph.D., I hold a Master’s degree in Management Science and Engineering (NUDT, December 2015), specializing in robustness optimization of complex networks and a Bachelor’s degree in Management Engineering (NUDT, June 2013).
 
 A data-driven personal website
 ======
